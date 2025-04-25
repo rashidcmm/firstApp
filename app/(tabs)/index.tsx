@@ -12,7 +12,7 @@ const Index = () => {
       }}
     >
       <Text style={{ fontSize: 24, fontFamily: "serif", color: "black" }}>
-        hello welcome
+        hello welcomdjjdjde
       </Text>
       <Link href="/(tabs)/about/index">go gsygdhs about</Link>
 
